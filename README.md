@@ -10,7 +10,7 @@
 
 Mi objetivo profesional es encontrar oportunidades en el campo de la ciencia de datos y el análisis de datos. Soy un profesional comprometido con la mejora continua de los procesos, utilizando un enfoque tanto analítico como creativo. Aspiro a integrar mis habilidades en análisis de datos para optimizar procesos y tomar decisiones informadas que impulsen el crecimiento y la eficiencia en la empresa. Mi meta es que mis contribuciones sean de valor y tengan un impacto positivo, proporcionando soluciones innovadoras y prácticas para los desafíos que enfrenta la organización.
 
-*Celular : 5532221696*
+*Celular : 5532221696*  -  *Correo : bruno.er99@hotmail.com*
 
 
 # 🛠️ SOFTWARE
