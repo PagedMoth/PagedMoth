@@ -3,8 +3,7 @@
 
 
 
-
-![Banner](https://github.com/PagedMoth/hello-world/blob/PagedMoth/Banner.png)
+Banner.png
 
 **Ingeniero en Desarrollo Sustentable especializado en datos, visualización e inteligencia de negocio.** Experiencia en sustentabilidad, análisis de datos y servicio al cliente. Competencias en Power BI, Python, SQL, Sklearn, Pandas, Numpy, Ciclo de Vida de Producto, ETL y Diseño de Arte. Destaco por mi atención al detalle, capacidad de trabajo en equipo, comunicación efectiva e innovación constante.
 
